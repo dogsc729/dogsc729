@@ -1,5 +1,5 @@
 ### This is Dogsc729 😃
-- 🌱 I’m currently learning pursuing Bachelor of Science in Electrical engineering @ National Taiwan University
+- 🌱 I’m currently pursuing Bachelor of Science in Electrical engineering @ National Taiwan University
 - 📫 How to reach me: b07611033@ntu.edu.tw
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
