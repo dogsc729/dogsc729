@@ -1,6 +1,6 @@
 ### This is Dogsc729 😃
 - 🌱 I’m currently pursuing Bachelor of Science in Electrical engineering @ National Taiwan University
-- 🔭 Currently working as Data Center Hardware Platform Application Engineer Intern @ Intel
+- 🔭 Ex-Intern @ Intel (2021/7 - 2022/6)
 - 📫 How to reach me: b07611033@ntu.edu.tw
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
