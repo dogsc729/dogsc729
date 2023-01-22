@@ -1,8 +1,9 @@
 ### This is Dogsc729 😃
-- 🌱 I’m currently pursuing Bachelor of Science in Electrical engineering @ National Taiwan University
+- 🌱 Bachelor of Science in Electrical engineering, National Taiwan University, Class of 2022.
 - ✨ SW Intern @ MIH Open EV Alliance (2022/9 - present)
 - 🔭 Ex-Intern @ Intel (2021/7 - 2022/6)
 - 📫 How to reach me: shuyulin1998@gamail.com
+- ⚡ Personal Website: https://dogsc729.github.io/
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
