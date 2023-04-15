@@ -1,7 +1,7 @@
 ### This is Dogsc729 😃
 - 🌱 Incoming Master of Science in Electrical and Computer Engineering student at University of Michigan.
 - 🌱 Bachelor of Science in Electrical engineering, National Taiwan University, Class of 2022.
-- 📫 How to reach me: shuyulin1998@gamail.com
+- 📫 How to reach me: syulin@umich.edu
 - ⚡ Personal Website: https://dogsc729.github.io/
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
