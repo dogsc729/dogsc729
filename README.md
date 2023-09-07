@@ -1,6 +1,6 @@
 ### This is Dogsc729 😃
-- 🌱 Incoming Master of Science in Electrical and Computer Engineering student at University of Michigan.
-- 🌱 Bachelor of Science in Electrical engineering, National Taiwan University, Class of 2022.
+- 🌱 Master of Science in Electrical and Computer Engineering student at the University of Michigan.
+- 🌱 Bachelor of Science in Electrical Engineering, National Taiwan University, Class of 2022.
 - 📫 How to reach me: syulin@umich.edu
 - ⚡ Personal Website: https://dogsc729.github.io/
 <!--
