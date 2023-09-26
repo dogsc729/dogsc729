@@ -1,4 +1,4 @@
-### This is Dogsc729 😃
+### This is Shu-Yu Lin 😃
 - 🌱 Master of Science in Electrical and Computer Engineering, University of Michigan.
 - 🌱 Bachelor of Science in Electrical Engineering, National Taiwan University, Class of 2022.
 - 📫 How to reach me: syulin@umich.edu
