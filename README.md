@@ -1,6 +1,6 @@
 ### Shu-Yu Lin
-- 🌱 Master of Science in Electrical and Computer Engineering, University of Michigan.
-- 🌱 Bachelor of Science in Electrical Engineering, National Taiwan University, Class of 2022.
+- 🌱 Master of Science in Electrical and Computer Engineering, University of Michigan '25
+- 🌱 Bachelor of Science in Electrical Engineering, National Taiwan University '22
 - 📫 How to reach me: syulin@umich.edu
 - ⚡ Personal Website: https://dogsc729.github.io/
 <!--
