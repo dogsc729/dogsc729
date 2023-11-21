@@ -1,7 +1,7 @@
 ### Shu-Yu Lin
 - 🌱 M.S. in Electrical and Computer Engineering, University of Michigan '25
 - 🌱 B.S. in Electrical Engineering, National Taiwan University '22
-- 📫 How to reach me: syulin@umich.edu
+- 📫 How to reach me: shuyulin1998@gmail.com
 - ⚡ Personal Website: https://dogsc729.github.io/
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
