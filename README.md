@@ -1,8 +1,8 @@
 ### Shu-Yu Lin
-M.S. in Electrical and Computer Engineering, University of Michigan
-B.S. in Electrical Engineering, National Taiwan University
-shuyulin1998@gmail.com
-https://dogsc729.github.io/
+- M.S. in Electrical and Computer Engineering, University of Michigan
+- B.S. in Electrical Engineering, National Taiwan University
+- shuyulin1998@gmail.com
+- https://dogsc729.github.io/
 <!--
 **dogsc729/dogsc729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
