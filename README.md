@@ -1,5 +1,5 @@
 ### Shu-Yu Lin
-- M.S. in Electrical and Computer Engineering, University of Michigan
+- M.S. in Electrical and Computer Engineering, University of Michigan, Ann Arbor
 - B.S. in Electrical Engineering, National Taiwan University
 - shuyulin1998@gmail.com
 - https://dogsc729.github.io/
